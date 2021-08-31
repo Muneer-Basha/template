@@ -1,0 +1,38 @@
+body{
+
+    font-family: 'Rubik', sans-serif;
+}
+
+.header{
+height: 90vh;
+width: 1005;
+
+background-color: black;
+
+
+color: white;
+
+background-image: linear-gradient(to right, rgb(155, 155, 219), rgba(2, 2, 15, 0.2)),url(https://images.pexels.com/photos/3861958/pexels-photo-3861958.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);;
+background-size: cover;
+
+
+}
+.h-100{
+height: 100%;
+width: 100%;
+}
+
+.btn{
+
+    border-radius: 10rem !important;
+    padding: 1.25rem 2.24rem !important;
+}
+
+.message{
+    background-color: rgb(228, 153, 203);
+}
+.myicon{
+font-size: 60px;
+padding: 20px;
+
+}
